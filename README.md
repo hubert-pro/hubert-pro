@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hubert-pro
-- 👀 I’m interested in ...ethical hacking online
-- 🌱 I’m currently learning ... computer science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...ethical hacking online and website building
+- 🌱 I’m currently learning anything related to technology
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... niyohubert1@gmail.com
 
 <!---
